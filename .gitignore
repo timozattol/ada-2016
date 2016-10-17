@@ -1,5 +1,5 @@
 # Project specific
-hw02/cache
+hw02/cache/*.bak
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
